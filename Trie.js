@@ -2,6 +2,6 @@ class Trie {
 
     constructor() {
         letters = [];
-        isWordCompleted;
+        isWordCompleted=false;
     }
 }
